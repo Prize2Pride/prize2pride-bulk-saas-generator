@@ -33,6 +33,10 @@ src/            Validation and blueprint generator
 README.md       Public usage and boundaries
 ```
 
+## Live reference deployment
+
+See [DEPLOYMENT.md](./DEPLOYMENT.md) for the protected live Generator Studio reference. The repository remains credential-free and runnable locally; the deployed creator workflow keeps model access server-side.
+
 ## License
 
 MIT. The name **Prize2Pride** and associated branding remain subject to their respective brand rights.
