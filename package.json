@@ -1,0 +1,12 @@
+{
+  "name": "prize2pride-bulk-saas-generator",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "Public code-first reference for structured multilingual language-learning SaaS blueprints.",
+  "scripts": {
+    "generate": "node src/generate-blueprint.mjs",
+    "test": "node --test src/generate-blueprint.test.mjs"
+  },
+  "license": "MIT"
+}
