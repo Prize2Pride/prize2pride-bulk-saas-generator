@@ -12,9 +12,10 @@ The included generator validates a compact product brief and emits a JSON bluepr
 
 ```bash
 npm run generate -- examples/japanese-for-tunisians.json
+npm run generate -- --prompt "Japanese for Tunisians — A0–B2 dialogue-first study and travel learning"
 ```
 
-The command prints the validated blueprint JSON to standard output. No network request, secret, account, or learner data is used.
+The command prints a validated application package JSON to standard output: the learner routes, device-local state model, protected creator actions, readiness checks, and a five-file code-seed manifest. No network request, secret, account, or learner data is used.
 
 ## Public boundaries
 
